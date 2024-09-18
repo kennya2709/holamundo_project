@@ -1,0 +1,9 @@
+{
+    "name": "Hola Mundo Django",
+    "short_name": "HolaMundo",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "Aplicación de Hola Mundo hecha con Django"
+}
